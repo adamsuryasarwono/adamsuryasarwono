@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Adam, a passionate Web Developer with a deep focus on Front-end Development. I thrive on curiosity and have an insatiable hunger for learning how things work under the hood.<br>I’m always open to interesting projects and exciting collaborations, let's build something great together!
+I am Adam, a passionate Web Developer with a deep focus on Front-end Development. I thrive on curiosity and have an insatiable hunger for learning how things work under the hood. I’m always open to interesting projects and exciting collaborations, let's build something great together!
 
 
 ## 🌐 Socials:
